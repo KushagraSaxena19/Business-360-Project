@@ -1,101 +1,358 @@
-# 📊 Business Intelligence Dashboard 360
-
 <div align="center">
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Business%20Intelligence%20360&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-**Transform Raw Data into Actionable Business Insights**
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Transform+Data+into+Decisions;6+Interactive+Dashboards;50%2B+Business+KPIs+Tracked;Real-time+MySQL+Integration" alt="Typing SVG" /></a>
 
-*Interactive dashboards providing 360° business visibility across Finance, Sales, Market, Supply Chain & Executive metrics*
+<br/>
+
+<!-- Tech Stack Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1e1e1e" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1e1e" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoftexcel&logoColor=black&labelColor=1e1e1e" />
+  <img src="https://img.shields.io/badge/Status-Active-00C851?style=for-the-badge&labelColor=1e1e1e" />
+</p>
+
+<!-- Description with Icons -->
+<p align="center">
+  <b>📊 Enterprise-Grade BI Solution | 🎯 Multi-Dimensional Analysis | ⚡ Real-Time Insights</b>
+</p>
 
 </div>
 
----
+<br/>
 
-## 🎯 Project Overview
+<!-- Fancy Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Enterprise-grade **Business Intelligence Dashboard** built with **Power BI** and **MySQL** for comprehensive business analysis across multiple departments. Features advanced data modeling, DAX calculations, and interactive visualizations.
+<br/>
 
-### ✨ Key Highlights
-- 🔄 **6 Specialized Dashboards** - Complete business coverage from operations to executive level
-- 📈 **50+ KPIs Tracked** - Revenue, margins, forecast accuracy, market share & more
-- 🎯 **Multi-dimensional Analysis** - Filter by region, customer, segment, category & time
-- 💡 **Real-time Insights** - MySQL backend with automated refresh
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Project Overview
 
----
+<table>
+<tr>
+<td width="60%">
 
-## 🛠️ Tech Stack
+```yaml
+Project: Business Intelligence Dashboard 360
+Type: Data Analytics & Visualization
+Tool: Power BI Desktop
+Database: MySQL Server
+Language: DAX, Power Query M, SQL
+Features: 
+  - 6 Interactive Dashboards
+  - 50+ KPIs & Metrics
+  - Multi-dimensional Filtering
+  - Real-time Data Refresh
+  - Advanced DAX Calculations
+Status: ✅ Production Ready
+```
 
-**Visualization:** Power BI | **Database:** MySQL | **Analytics:** DAX, Power Query
+</td>
+<td width="40%">
 
----
+### 🎯 Quick Stats
 
-## 📸 Dashboard Previews
+```diff
++ 6 Specialized Dashboards
++ 50+ Business KPIs
++ 360° Business Visibility
++ Real-time MySQL Sync
++ Advanced DAX Measures
++ Interactive Drill-Through
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Dashboard Gallery
+
+<div align="center">
 
 ### 🏠 Home Page - Navigation Hub
-Central dashboard for seamless navigation across all business views.
 
-![Home Page](https://github.com/user-attachments/assets/9e4fe950-0850-45de-a5bc-51a8fe0c79aa)
+<img src="https://github.com/user-attachments/assets/9e4fe950-0850-45de-a5bc-51a8fe0c79aa" width="900" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+
+<details>
+<summary><b>🔍 View Details</b></summary>
+<br/>
+  
+**Features:**
+- 🎯 Single-click navigation to all dashboards
+- 📅 Last refresh timestamp tracking
+- 🔄 Unified filtering system
+- 📋 Quick info panel
+
+</details>
+
+<br/>
 
 ---
 
 ### 💰 Finance View - P&L Analysis
-Complete profit & loss statement with ₹823.85M net sales, 36.49% gross margin tracking, and product/customer profitability analysis.
 
-![Finance View](https://github.com/user-attachments/assets/257540cc-5696-4e14-b541-7a21730f6739)
+<img src="https://github.com/user-attachments/assets/257540cc-5696-4e14-b541-7a21730f6739" width="900" style="border-radius: 10px;"/>
+
+<details>
+<summary><b>🔍 View Details</b></summary>
+<br/>
+
+**Key Metrics:**
+- 💵 **Net Sales:** ₹823.85M (+207.43% growth)
+- 📊 **Gross Margin:** 36.49%
+- 📉 **Net Profit:** -6.63%
+- 📋 Complete P&L statement with line-item analysis
+- 🎯 Product & customer profitability breakdown
+
+</details>
+
+<br/>
 
 ---
 
 ### 📈 Sales View - Performance Tracking
-Customer & product performance analysis with YoY trends, gross margin tracking, and unit economics.
 
-![Sales View](https://github.com/user-attachments/assets/0064c32e-a1d7-487d-9ad8-2f47f5d92311)
+<img src="https://github.com/user-attachments/assets/0064c32e-a1d7-487d-9ad8-2f47f5d92311" width="900" style="border-radius: 10px;"/>
+
+<details>
+<summary><b>🔍 View Details</b></summary>
+<br/>
+
+**Analytics:**
+- 👥 Customer performance matrix
+- 📦 Product performance by segment
+- 📊 Performance matrix bubble chart
+- 💹 YoY trend analysis
+- 💰 Unit economics breakdown
+
+</details>
+
+<br/>
 
 ---
 
 ### 🌍 Market View - Competitive Intelligence
-Market positioning analysis with regional performance breakdown and customer segmentation insights.
 
-![Market View](https://github.com/user-attachments/assets/a263f12c-d208-49ad-ab56-bae281f0623f)
+<img src="https://github.com/user-attachments/assets/a263f12c-d208-49ad-ab56-bae281f0623f" width="900" style="border-radius: 10px;"/>
+
+<details>
+<summary><b>🔍 View Details</b></summary>
+<br/>
+
+**Insights:**
+- 🌐 Regional performance breakdown
+- 🎯 Market positioning analysis
+- 👥 Customer segmentation
+- 📊 Gross margin vs net sales matrix
+- 💼 Unit economics dashboard
+
+</details>
+
+<br/>
 
 ---
 
 ### 🚚 Supply Chain View - Forecast Accuracy
-Track forecast accuracy (80.2%), net error (-751.71K), and customer-specific supply chain metrics.
 
-![Supply Chain View](https://github.com/user-attachments/assets/10d1a218-70f1-4ac3-9130-924828ff0efe)
+<img src="https://github.com/user-attachments/assets/10d1a218-70f1-4ac3-9130-924828ff0efe" width="900" style="border-radius: 10px;"/>
+
+<details>
+<summary><b>🔍 View Details</b></summary>
+<br/>
+
+**KPIs:**
+- ✅ **Forecast Accuracy:** 80.2%
+- 📉 **Net Error:** -751.71K
+- ⚠️ **ABS Error:** 9780.74K
+- 📈 Accuracy trend over time
+- 🎯 Customer-specific metrics
+
+</details>
+
+<br/>
 
 ---
 
 ### 🏢 Executive View - Strategic Overview
-C-suite dashboard with consolidated KPIs, yearly trends, top performers, and market share analysis.
 
-![Executive View](https://github.com/user-attachments/assets/f2e0e2e9-942c-420d-81a9-b5ac67eced43)
+<img src="https://github.com/user-attachments/assets/f2e0e2e9-942c-420d-81a9-b5ac67eced43" width="900" style="border-radius: 10px;"/>
 
----
+<details>
+<summary><b>🔍 View Details</b></summary>
+<br/>
 
-## 🔑 Key Features
+**C-Suite Dashboard:**
+- 📊 Consolidated business KPIs
+- 🌐 Sub-zone performance analysis
+- 🏆 Top 5 customers & products
+- 📈 Yearly trend analysis
+- 🎯 Market share by competitor
 
-- ✅ **Interactive Filtering** - Dynamic cross-dashboard filter persistence
-- ✅ **Advanced DAX Measures** - YoY comparisons, variance analysis, time intelligence
-- ✅ **Drill-Through Capabilities** - Click any visual to explore underlying data
-- ✅ **Optimized Performance** - Star schema data modeling for fast queries
-- ✅ **Professional Design** - Consistent theme with intuitive UX
+</details>
 
----
+</div>
 
-## 💼 Skills Demonstrated
+<br/>
 
-**Business Intelligence** • **Data Modeling** • **DAX Programming** • **SQL/MySQL** • **Data Visualization** • **Business Analysis**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br/>
 
-## 📈 Business Impact
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Key Features
 
-- ⏱️ **80% faster** report generation
-- 🎯 **Real-time insights** replacing weekly static reports  
-- 💡 **Data-driven decisions** across 6 business functions
-- 🔍 **360° visibility** into organizational performance
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=visualstudio" width="60"/><br/>
+<sub><b>Interactive UI</b></sub><br/>
+<sub>Drill-through & Filtering</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br/>
+<sub><b>MySQL Backend</b></sub><br/>
+<sub>Real-time Data Sync</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=python" width="60"/><br/>
+<sub><b>Advanced DAX</b></sub><br/>
+<sub>Complex Calculations</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=github" width="60"/><br/>
+<sub><b>Version Control</b></sub><br/>
+<sub>Git Integration</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+```mermaid
+mindmap
+  root((BI Dashboard 360))
+    Finance
+      P&L Analysis
+      Revenue Tracking
+      Cost Management
+    Sales
+      Performance Metrics
+      Customer Analysis
+      Product Trends
+    Market
+      Market Share
+      Competitive Analysis
+      Regional Insights
+    Supply Chain
+      Forecast Accuracy
+      Inventory Metrics
+      Supplier Performance
+    Executive
+      KPI Summary
+      Strategic Overview
+      Top Performers
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Skills Demonstrated
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
+![DAX Programming](https://img.shields.io/badge/DAX_Programming-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-4CAF50?style=flat-square&logo=tableau&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-9C27B0?style=flat-square&logo=apache&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 📊 Business Impact
+
+<div align="center">
+
+| 🎯 Metric | 📈 Achievement | 💡 Impact |
+|:----------|:---------------|:----------|
+| ⏱️ **Efficiency** | 80% faster reporting | Automated weekly reports |
+| 🎯 **Accuracy** | Real-time updates | Eliminated data lag |
+| 💼 **Coverage** | 6 departments | 360° business view |
+| 📊 **KPIs** | 50+ metrics | Comprehensive tracking |
+| 👥 **Users** | Cross-functional | Finance, Sales, Ops, Exec |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> &nbsp;Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/yourprofile">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://yourportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### ⭐ Star this repo if you found it helpful! ⭐
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/yourusername/business-insights-360?style=for-the-badge&logo=github&color=yellow)
+![GitHub Forks](https://img.shields.io/github/forks/yourusername/business-insights-360?style=for-the-badge&logo=github&color=blue)
+
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<div align="center">
+
+### 💙 Made with passion for Data Analytics & Business Intelligence
+
+**⚡ Transforming data into decisions, one dashboard at a time ⚡**
+
+</div>
