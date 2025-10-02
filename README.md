@@ -41,16 +41,6 @@
 **Tool:** Power BI Desktop  
 **Database:** MySQL Server  
 **Language:** DAX, Power Query M, SQL  
-
-**Features:**
-- 6 Interactive Dashboards
-- 50+ KPIs & Metrics  
-- Multi-dimensional Filtering
-- Real-time Data Refresh
-- Advanced DAX Calculations
-
-**Status:** ✅ Production Ready
-
 </td>
 <td width="50%">
 
