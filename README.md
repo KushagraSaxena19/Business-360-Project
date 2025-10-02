@@ -34,7 +34,7 @@
 
 <table>
 <tr>
-<td width="40%">
+<td width="50%">
 
 **Project:** Business Intelligence Dashboard 360  
 **Type:** Data Analytics & Visualization  
@@ -49,8 +49,10 @@
 - Real-time Data Refresh
 - Advanced DAX Calculations
 
+**Status:** ✅ Production Ready
+
 </td>
-<td width="60%">
+<td width="50%">
 
 ### Quick Stats
 
@@ -210,23 +212,20 @@
 
 <table>
 <tr>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/96/000000/power-bi.png" width="80"/><br/>
+<sub><b>Power BI Visualization</b></sub><br/>
+<sub>Interactive Dashboards & Reports</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br/>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="80"/><br/>
 <sub><b>MySQL Backend</b></sub><br/>
-<sub>Real-time Data Sync</sub>
+<sub>Real-time Data Integration</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=powerbi" width="60"/><br/>
-<sub><b>Advanced DAX</b></sub><br/>
-<sub>Complex Calculations</sub>
-</td>
+</tr>
 </table>
 
 </div>
-
-<br/>
-
 
 <br/>
 
@@ -255,6 +254,7 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br/>
 
 ## 📊 Business Impact
@@ -277,7 +277,6 @@
 
 <br/>
 
-</div>
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
