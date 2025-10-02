@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Business%20Intelligence%20360&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Transform+Data+into+Decisions;6+Interactive+Dashboards;50%2B+Business+KPIs+Tracked;Real-time+MySQL+Integration" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Empowering+Business+Decisions;6+Strategic+Dashboards;50%2B+Critical+KPIs;Real-Time+Enterprise+Intelligence" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -36,34 +36,32 @@
 <tr>
 <td width="60%">
 
-```yaml
-Project: Business Intelligence Dashboard 360
-Type: Data Analytics & Visualization
-Tool: Power BI Desktop
-Database: MySQL Server
-Language: DAX, Power Query M, SQL
-Features: 
-  - 6 Interactive Dashboards
-  - 50+ KPIs & Metrics
-  - Multi-dimensional Filtering
-  - Real-time Data Refresh
-  - Advanced DAX Calculations
-Status: ✅ Production Ready
-```
+**Project:** Business Intelligence Dashboard 360  
+**Type:** Data Analytics & Visualization  
+**Tool:** Power BI Desktop  
+**Database:** MySQL Server  
+**Language:** DAX, Power Query M, SQL  
+
+**Features:**
+- 6 Interactive Dashboards
+- 50+ KPIs & Metrics  
+- Multi-dimensional Filtering
+- Real-time Data Refresh
+- Advanced DAX Calculations
+
+**Status:** ✅ Production Ready
 
 </td>
 <td width="40%">
 
-### 🎯 Quick Stats
+### Quick Stats
 
-```diff
-+ 6 Specialized Dashboards
-+ 50+ Business KPIs
-+ 360° Business Visibility
-+ Real-time MySQL Sync
-+ Advanced DAX Measures
-+ Interactive Drill-Through
-```
+- ✅ 6 Specialized Dashboards
+- ✅ 50+ Business KPIs
+- ✅ 360° Business Visibility
+- ✅ Real-time MySQL Sync
+- ✅ Advanced DAX Measures
+- ✅ Interactive Drill-Through
 
 </td>
 </tr>
@@ -241,30 +239,62 @@ Status: ✅ Production Ready
 
 <br/>
 
-```mermaid
-mindmap
-  root((BI Dashboard 360))
-    Finance
-      P&L Analysis
-      Revenue Tracking
-      Cost Management
-    Sales
-      Performance Metrics
-      Customer Analysis
-      Product Trends
-    Market
-      Market Share
-      Competitive Analysis
-      Regional Insights
-    Supply Chain
-      Forecast Accuracy
-      Inventory Metrics
-      Supplier Performance
-    Executive
-      KPI Summary
-      Strategic Overview
-      Top Performers
-```
+### 📊 Dashboard Architecture
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**💰 Finance**
+- P&L Analysis
+- Revenue Tracking
+- Cost Management
+
+</td>
+<td width="33%" align="center">
+
+**📈 Sales**
+- Performance Metrics
+- Customer Analysis
+- Product Trends
+
+</td>
+<td width="33%" align="center">
+
+**🌍 Market**
+- Market Share
+- Competitive Analysis
+- Regional Insights
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+**🚚 Supply Chain**
+- Forecast Accuracy
+- Inventory Metrics
+- Supplier Performance
+
+</td>
+<td width="33%" align="center">
+
+**🏢 Executive**
+- KPI Summary
+- Strategic Overview
+- Top Performers
+
+</td>
+<td width="33%" align="center">
+
+**🏠 Home**
+- Central Navigation
+- Unified Filters
+- Quick Access
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -276,7 +306,8 @@ mindmap
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+<img src="https://img.icons8.com/color/96/000000/power-bi.png" width="80"/>
+<img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="80"/>
 
 <br/><br/>
 
