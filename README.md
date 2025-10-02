@@ -33,9 +33,8 @@
 
 <table>
 <tr>
-<p align="center">
 <td width="50%">
-
+<p align="center">
 **Project:** Business Intelligence Dashboard 360  
 **Type:** Data Analytics & Visualization  
 **Tool:** Power BI Desktop  
@@ -53,7 +52,7 @@
 - ✅ Real-time MySQL Sync
 - ✅ Advanced DAX Measures
 - ✅ Interactive Drill-Through
-
+<p align="center">
 </td>
 </tr>
 </table>
