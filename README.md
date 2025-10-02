@@ -42,13 +42,6 @@
 **Database:** MySQL Server  
 **Language:** DAX, Power Query M, SQL  
 
-**Features:**
-- 6 Interactive Dashboards
-- 50+ KPIs & Metrics  
-- Multi-dimensional Filtering
-- Real-time Data Refresh
-- Advanced DAX Calculations
-
 </td>
 <td width="50%">
 
