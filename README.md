@@ -346,36 +346,6 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> &nbsp;Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/yourprofile">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<br/><br/>
-
-### ⭐ Star this repo if you found it helpful! ⭐
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=brightgreen&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/business-insights-360?style=for-the-badge&logo=github&color=yellow)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/business-insights-360?style=for-the-badge&logo=github&color=blue)
-
-</div>
-
-<br/>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
