@@ -44,14 +44,12 @@
 </td>
 <td width="50%">
 
-### Quick Stats
-
-- ✅ 6 Specialized Dashboards
-- ✅ 50+ Business KPIs
-- ✅ 360° Business Visibility
-- ✅ Real-time MySQL Sync
-- ✅ Advanced DAX Measures
-- ✅ Interactive Drill-Through
+-  6 Specialized Dashboards
+-  50+ Business KPIs
+-  360° Business Visibility
+-  Real-time MySQL Sync
+-  Advanced DAX Measures
+-  Interactive Drill-Through
 
 </td>
 </tr>
