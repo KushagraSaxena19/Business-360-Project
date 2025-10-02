@@ -206,21 +206,37 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Key Features
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Key Features & Technologies
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/000000/power-bi.png" width="80"/><br/>
-<sub><b>Power BI Visualization</b></sub><br/>
-<sub>Interactive Dashboards & Reports</sub>
+<sub><b>Power BI Desktop</b></sub><br/>
+<sub>Advanced Visualizations</sub>
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="80"/><br/>
-<sub><b>MySQL Backend</b></sub><br/>
-<sub>Real-time Data Integration</sub>
+<sub><b>MySQL Database</b></sub><br/>
+<sub>Real-time Data Sync</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/analytics.png" width="80"/><br/>
+<sub><b>DAX & Power Query</b></sub><br/>
+<sub>Complex Calculations</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+✨ Interactive Filtering
+</td>
+<td align="center" width="33%">
+🎯 Drill-Through Analysis
+</td>
+<td align="center" width="33%">
+📊 Multi-Dimensional Views
 </td>
 </tr>
 </table>
