@@ -212,10 +212,6 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=visualstudio" width="60"/><br/>
-<sub><b>Interactive UI</b></sub><br/>
-<sub>Drill-through & Filtering</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=mysql" width="60"/><br/>
@@ -223,78 +219,16 @@
 <sub>Real-time Data Sync</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=python" width="60"/><br/>
+<img src="https://skillicons.dev/icons?i=powerbi" width="60"/><br/>
 <sub><b>Advanced DAX</b></sub><br/>
 <sub>Complex Calculations</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=github" width="60"/><br/>
-<sub><b>Version Control</b></sub><br/>
-<sub>Git Integration</sub>
-</td>
-</tr>
 </table>
 
 </div>
 
 <br/>
 
-### 📊 Dashboard Architecture
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**💰 Finance**
-- P&L Analysis
-- Revenue Tracking
-- Cost Management
-
-</td>
-<td width="33%" align="center">
-
-**📈 Sales**
-- Performance Metrics
-- Customer Analysis
-- Product Trends
-
-</td>
-<td width="33%" align="center">
-
-**🌍 Market**
-- Market Share
-- Competitive Analysis
-- Regional Insights
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-**🚚 Supply Chain**
-- Forecast Accuracy
-- Inventory Metrics
-- Supplier Performance
-
-</td>
-<td width="33%" align="center">
-
-**🏢 Executive**
-- KPI Summary
-- Strategic Overview
-- Top Performers
-
-</td>
-<td width="33%" align="center">
-
-**🏠 Home**
-- Central Navigation
-- Unified Filters
-- Quick Access
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -323,7 +257,6 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br/>
 
 ## 📊 Business Impact
