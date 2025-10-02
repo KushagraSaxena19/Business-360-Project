@@ -29,36 +29,44 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Project Overview
 
 <table>
 <tr>
 <td width="50%">
-<p align="center">
 
-<b>Project:</b> Business Intelligence Dashboard 360  
-<b>Type:</b> Data Analytics & Visualization  
-<b>Tool:</b> Power BI Desktop  
-<b>Database:</b> MySQL Server  
-<b>Language:</b> DAX, Power Query M, SQL  
+**Project:** Business Intelligence Dashboard 360  
+**Type:** Data Analytics & Visualization  
+**Tool:** Power BI Desktop  
+**Database:** MySQL Server  
+**Language:** DAX, Power Query M, SQL  
 
-</p>
+**Features:**
+- 6 Interactive Dashboards
+- 50+ KPIs & Metrics  
+- Multi-dimensional Filtering
+- Real-time Data Refresh
+- Advanced DAX Calculations
+
+**Status:** ✅ Production Ready
+
 </td>
 <td width="50%">
 
 ### Quick Stats
 
-- ✅ 6 Specialized Dashboards  
-- ✅ 50+ Business KPIs  
-- ✅ 360° Business Visibility  
-- ✅ Real-time MySQL Sync  
-- ✅ Advanced DAX Measures  
-- ✅ Interactive Drill-Through  
+- ✅ 6 Specialized Dashboards
+- ✅ 50+ Business KPIs
+- ✅ 360° Business Visibility
+- ✅ Real-time MySQL Sync
+- ✅ Advanced DAX Measures
+- ✅ Interactive Drill-Through
 
-<p align="center"></p>
 </td>
 </tr>
 </table>
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
