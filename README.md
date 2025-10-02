@@ -49,8 +49,6 @@
 - Real-time Data Refresh
 - Advanced DAX Calculations
 
-**Status:** ✅ Production Ready
-
 </td>
 <td width="50%">
 
