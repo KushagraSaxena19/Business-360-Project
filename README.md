@@ -104,8 +104,4 @@ C-suite dashboard with consolidated KPIs, yearly trends, top performers, and mar
 
 <div align="center">
 
-⭐ **If you found this project valuable, please star the repository!** ⭐
-
-*Built with ❤️ to showcase data analytics excellence*
-
 </div>
