@@ -34,7 +34,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="40%">
 
 **Project:** Business Intelligence Dashboard 360  
 **Type:** Data Analytics & Visualization  
@@ -50,7 +50,7 @@
 - Advanced DAX Calculations
 
 </td>
-<td width="50%">
+<td width="60%">
 
 ### Quick Stats
 
