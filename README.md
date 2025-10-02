@@ -35,28 +35,30 @@
 <tr>
 <td width="50%">
 <p align="center">
-**Project:** Business Intelligence Dashboard 360  
-**Type:** Data Analytics & Visualization  
-**Tool:** Power BI Desktop  
-**Database:** MySQL Server  
-**Language:** DAX, Power Query M, SQL  
 
+<b>Project:</b> Business Intelligence Dashboard 360  
+<b>Type:</b> Data Analytics & Visualization  
+<b>Tool:</b> Power BI Desktop  
+<b>Database:</b> MySQL Server  
+<b>Language:</b> DAX, Power Query M, SQL  
+
+</p>
 </td>
 <td width="50%">
 
 ### Quick Stats
 
-- ✅ 6 Specialized Dashboards
-- ✅ 50+ Business KPIs
-- ✅ 360° Business Visibility
-- ✅ Real-time MySQL Sync
-- ✅ Advanced DAX Measures
-- ✅ Interactive Drill-Through
-<p align="center">
+- ✅ 6 Specialized Dashboards  
+- ✅ 50+ Business KPIs  
+- ✅ 360° Business Visibility  
+- ✅ Real-time MySQL Sync  
+- ✅ Advanced DAX Measures  
+- ✅ Interactive Drill-Through  
+
+<p align="center"></p>
 </td>
 </tr>
 </table>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
